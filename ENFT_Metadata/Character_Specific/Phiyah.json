@@ -1,0 +1,78 @@
+{
+  "name": "Phiyah - The Seer of Routes",
+  "symbol": "PHIYAH-08",
+  "description": "Phiyah sees what was, what is, and what must be. She maps the unseen, navigates the impossible, and guides through the Universal Route. Pathfinder Supreme.",
+  "image": "ipfs://QmPHIYAH_Character_Image_CID",
+  "animation_url": "ipfs://QmPHIYAH_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/phiyah",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 8
+    },
+    {
+      "trait_type": "Name",
+      "value": "Phiyah"
+    },
+    {
+      "trait_type": "Title",
+      "value": "The Seer of Routes - Pathfinder Supreme"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Light/Vision"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Ezekiel's Visions (Ezekiel 1)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Dimensional Navigation"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Blindness → Vision → Revelation"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Orbital Ring Observatory"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Vision Sphere"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Third Eye Prism"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Platinum Threads - 285Hz Quantum Cognition"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Light Burst"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Prismatic Wind"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Dimensional-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Future Sight, Route Mapping, Dimensional Navigation"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}

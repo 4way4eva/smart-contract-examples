@@ -1,0 +1,82 @@
+{
+  "name": "Kongo Sonix - The Resonance Revolutionary",
+  "symbol": "KONGO-06",
+  "description": "Kongo Sonix brings down walls with claps, erases distortion with cadence. His rhythm is revolution, his bass is rebellion. The Cadence Warrior.",
+  "image": "ipfs://QmKONGO_Character_Image_CID",
+  "animation_url": "ipfs://QmKONGO_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/kongo-sonix",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 6
+    },
+    {
+      "trait_type": "Name",
+      "value": "Kongo Sonix"
+    },
+    {
+      "trait_type": "Title",
+      "value": "The Resonance Revolutionary - Cadence Warrior"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Sound"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Joshua's Trumpets (Joshua 6)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Structural Deconstruction via Frequency"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Siege → Resonance → Collapse"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Jericho Resonance Fields"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Sonic Citadel"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Subsonic Gauntlets"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Bass Crown - 174Hz Pain Relief"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Sonic Boom"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Pressure Wave"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "City-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Wall Breaking, Distortion Erasure, Cadence Revolution"
+    },
+    {
+      "trait_type": "Lineage",
+      "value": "Static Shock Evolution"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}

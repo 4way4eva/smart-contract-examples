@@ -1,0 +1,78 @@
+{
+  "name": "Zorian - Time as Temple",
+  "symbol": "ZORIAN-03",
+  "description": "Zorian builds temples in moments, sanctuaries in seconds. Every structure is a prayer, every foundation a covenant with time itself. The Eternal Architect.",
+  "image": "ipfs://QmZORIAN_Character_Image_CID",
+  "animation_url": "ipfs://QmZORIAN_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/zorian",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 3
+    },
+    {
+      "trait_type": "Name",
+      "value": "Zorian"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Time as Temple - The Eternal Architect"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Earth"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Solomon's Temple (1 Kings 6)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Temporal Architecture"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Foundation → Construction → Sanctification"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Grand Canyon Memory Node"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Zion Construct"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Cornerstone Hammer"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Obsidian Locks - 396Hz Liberation"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Seismic Pulse"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Stone Dust Rising"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Continental-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Temporal Construction, Sacred Geometry, Foundation Locking"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}

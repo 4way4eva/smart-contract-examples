@@ -1,0 +1,82 @@
+{
+  "name": "Shango-Strike - The Thunder Walker",
+  "symbol": "SHANGO-05",
+  "description": "Shango-Strike calls down fire from heaven. His judgment is swift, his mercy swifter. He walks where false prophets fear to tread. Lightning's Judgment embodied.",
+  "image": "ipfs://QmSHANGO_Character_Image_CID",
+  "animation_url": "ipfs://QmSHANGO_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/shango-strike",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 5
+    },
+    {
+      "trait_type": "Name",
+      "value": "Shango-Strike"
+    },
+    {
+      "trait_type": "Title",
+      "value": "The Thunder Walker - Lightning's Judgment"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Elijah's Fire (1 Kings 18)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Divine Judgment Execution"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Challenge → Confrontation → Vindication"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Babel Elevation Rails"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Carmel Heights"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Thunderbolt Axes (Dual)"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Electric Locs - 963Hz Divine Connection"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Sky Hammer Strike"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Storm Summoning"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Atmospheric-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Lightning Judgment, False Prophet Detection, Storm Command"
+    },
+    {
+      "trait_type": "Lineage",
+      "value": "Black Lightning Descendant"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}
