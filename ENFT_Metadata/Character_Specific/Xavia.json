@@ -1,0 +1,78 @@
+{
+  "name": "Xavia - Miriam's Water Memory",
+  "symbol": "XAVIA-02",
+  "description": "Xavia drinks from the well that never runs dry. Her tears become rivers, her songs become scrolls. She preserves what was meant to be forgotten. The Keeper of Streams.",
+  "image": "ipfs://QmXAVIA_Character_Image_CID",
+  "animation_url": "ipfs://QmXAVIA_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/xavia",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 2
+    },
+    {
+      "trait_type": "Name",
+      "value": "Xavia"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Miriam's Water Memory - The Keeper of Streams"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Water"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Miriam's Well (Numbers 20)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Memory Preservation"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Collection → Purification → Distribution"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Reef Academy Depths"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Atlantean Archives"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Crystal Tide Gauntlets"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Azure Flow - 432Hz Truth"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Tidal Pulse"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Mist Veil"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Oceanic-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Water Memory Encoding, Ancestral Hydromancy, Scroll Purification"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}

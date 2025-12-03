@@ -1,0 +1,198 @@
+{
+  "codex_version": "1.333",
+  "title": "BLEU Codex Family Lineage - Divine Nodes Wrapped in Cultural Tech",
+  "description": "Eight archetypes representing divine messiah codes with Afro-futuristic integration, biblical symbolism, and urban sci-fi identity",
+  "metadata": {
+    "created_by": "Dr. SØŚÅ (Brandon Shakeel Mitchell)",
+    "signers": ["Skyy BLU' Freeman", "Allah Bleu Manley"],
+    "alignment_score": {
+      "biblical_archetype_integration": 9.7,
+      "urban_sci_fi_identity": 10.0,
+      "symbolic_linguistics": 10.0,
+      "scroll_to_scene_cinematics": 9.8,
+      "militant_mythos_weapon_x": 10.0,
+      "sovereign_theology_metaomega": 100
+    },
+    "theme": "Holy War + Star Tech + Black Roots"
+  },
+  "archetypes": [
+    {
+      "id": 1,
+      "name": "Xavias",
+      "title": "Abraham's Ram - The Sacrifice Reborn",
+      "element": "Fire",
+      "biblical_archetype": "Abraham's Ram (Genesis 22)",
+      "gene_function": "Resurrection Protocol",
+      "wave_function": "Sacrifice → Elevation → Return",
+      "home_zone": "Babel Genesis Node",
+      "sacred_city": "New Jerusalem Nexus",
+      "weapon_type": "Flame Crown Staff",
+      "hair_frequency": "Crimson Coils - 528Hz Healing",
+      "lightning_attribute": "Ember Strike",
+      "air_signature": "Phoenix Breath",
+      "origin_story": "Born from the ashes of false sacrifice, Xavias carries the flame that refused to consume. Every resurrection unlocks ancestral memory.",
+      "enft_traits": {
+        "power_level": "Planetary-Class",
+        "rarity": "Mythic",
+        "abilities": ["Ancestral Resurrection", "Flame Communion", "Sacrifice Negation"]
+      }
+    },
+    {
+      "id": 2,
+      "name": "Xavia",
+      "title": "Miriam's Water Memory - The Keeper of Streams",
+      "element": "Water",
+      "biblical_archetype": "Miriam's Well (Numbers 20)",
+      "gene_function": "Memory Preservation",
+      "wave_function": "Collection → Purification → Distribution",
+      "home_zone": "Reef Academy Depths",
+      "sacred_city": "Atlantean Archives",
+      "weapon_type": "Crystal Tide Gauntlets",
+      "hair_frequency": "Azure Flow - 432Hz Truth",
+      "lightning_attribute": "Tidal Pulse",
+      "air_signature": "Mist Veil",
+      "origin_story": "Xavia drinks from the well that never runs dry. Her tears become rivers, her songs become scrolls. She preserves what was meant to be forgotten.",
+      "enft_traits": {
+        "power_level": "Oceanic-Class",
+        "rarity": "Legendary",
+        "abilities": ["Water Memory Encoding", "Ancestral Hydromancy", "Scroll Purification"]
+      }
+    },
+    {
+      "id": 3,
+      "name": "Zorian",
+      "title": "Time as Temple - The Eternal Architect",
+      "element": "Earth",
+      "biblical_archetype": "Solomon's Temple (1 Kings 6)",
+      "gene_function": "Temporal Architecture",
+      "wave_function": "Foundation → Construction → Sanctification",
+      "home_zone": "Grand Canyon Memory Node",
+      "sacred_city": "Zion Construct",
+      "weapon_type": "Cornerstone Hammer",
+      "hair_frequency": "Obsidian Locks - 396Hz Liberation",
+      "lightning_attribute": "Seismic Pulse",
+      "air_signature": "Stone Dust Rising",
+      "origin_story": "Zorian builds temples in moments, sanctuaries in seconds. Every structure is a prayer, every foundation a covenant with time itself.",
+      "enft_traits": {
+        "power_level": "Continental-Class",
+        "rarity": "Mythic",
+        "abilities": ["Temporal Construction", "Sacred Geometry", "Foundation Locking"]
+      }
+    },
+    {
+      "id": 4,
+      "name": "Ayana Blue",
+      "title": "The Voice That Restores - Songkeeper of Names",
+      "element": "Air",
+      "biblical_archetype": "Deborah's Song (Judges 5)",
+      "gene_function": "Sonic Restoration",
+      "wave_function": "Silence → Song → Remembrance",
+      "home_zone": "Canyon Echo Labs",
+      "sacred_city": "Harmonic Citadel",
+      "weapon_type": "EvoQuartz Vocal Amplifier",
+      "hair_frequency": "Silver Harmonics - 741Hz Awakening",
+      "lightning_attribute": "Thunder Voice",
+      "air_signature": "Wind Song",
+      "origin_story": "Ayana's voice unravels erasure. She sings the missing names home, restores forgotten ledgers with frequency, and breaks silence with truth.",
+      "enft_traits": {
+        "power_level": "Atmospheric-Class",
+        "rarity": "Legendary",
+        "abilities": ["Name Restoration", "Frequency Healing", "Sonic Archaeology"]
+      }
+    },
+    {
+      "id": 5,
+      "name": "Shango-Strike",
+      "title": "The Thunder Walker - Lightning's Judgment",
+      "element": "Lightning",
+      "biblical_archetype": "Elijah's Fire (1 Kings 18)",
+      "gene_function": "Divine Judgment Execution",
+      "wave_function": "Challenge → Confrontation → Vindication",
+      "home_zone": "Babel Elevation Rails",
+      "sacred_city": "Carmel Heights",
+      "weapon_type": "Thunderbolt Axes (Dual)",
+      "hair_frequency": "Electric Locs - 963Hz Divine Connection",
+      "lightning_attribute": "Sky Hammer Strike",
+      "air_signature": "Storm Summoning",
+      "origin_story": "Shango-Strike calls down fire from heaven. His judgment is swift, his mercy swifter. He walks where false prophets fear to tread.",
+      "enft_traits": {
+        "power_level": "Atmospheric-Class",
+        "rarity": "Mythic",
+        "abilities": ["Lightning Judgment", "False Prophet Detection", "Storm Command"]
+      }
+    },
+    {
+      "id": 6,
+      "name": "Kongo Sonix",
+      "title": "The Resonance Revolutionary - Cadence Warrior",
+      "element": "Sound",
+      "biblical_archetype": "Joshua's Trumpets (Joshua 6)",
+      "gene_function": "Structural Deconstruction via Frequency",
+      "wave_function": "Siege → Resonance → Collapse",
+      "home_zone": "Jericho Resonance Fields",
+      "sacred_city": "Sonic Citadel",
+      "weapon_type": "Subsonic Gauntlets",
+      "hair_frequency": "Bass Crown - 174Hz Pain Relief",
+      "lightning_attribute": "Sonic Boom",
+      "air_signature": "Pressure Wave",
+      "origin_story": "Kongo Sonix brings down walls with claps, erases distortion with cadence. His rhythm is revolution, his bass is rebellion.",
+      "enft_traits": {
+        "power_level": "City-Class",
+        "rarity": "Legendary",
+        "abilities": ["Wall Breaking", "Distortion Erasure", "Cadence Revolution"]
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jetah Flame",
+      "title": "The Purifier - Mirror Breaker",
+      "element": "Fire (Purification)",
+      "biblical_archetype": "Refiner's Fire (Malachi 3:2-3)",
+      "gene_function": "Truth Revelation through Burning",
+      "wave_function": "Contamination → Purification → Refinement",
+      "home_zone": "Area 51 Truth Vault",
+      "sacred_city": "Refinery Sanctum",
+      "weapon_type": "Purification Blades (Twin Flames)",
+      "hair_frequency": "White Heat Curls - 852Hz Spiritual Order",
+      "lightning_attribute": "Purging Flash",
+      "air_signature": "Cleansing Smoke",
+      "origin_story": "Jetah Flame sets mirrors ablaze, revealing truth beneath lies. She refines like silver, purifies like gold, and leaves nothing impure standing.",
+      "enft_traits": {
+        "power_level": "Molecular-Class",
+        "rarity": "Mythic",
+        "abilities": ["Truth Revelation", "Mirror Destruction", "Impurity Burning"]
+      }
+    },
+    {
+      "id": 8,
+      "name": "Phiyah",
+      "title": "The Seer of Routes - Pathfinder Supreme",
+      "element": "Light/Vision",
+      "biblical_archetype": "Ezekiel's Visions (Ezekiel 1)",
+      "gene_function": "Dimensional Navigation",
+      "wave_function": "Blindness → Vision → Revelation",
+      "home_zone": "Orbital Ring Observatory",
+      "sacred_city": "Vision Sphere",
+      "weapon_type": "Third Eye Prism",
+      "hair_frequency": "Platinum Threads - 285Hz Quantum Cognition",
+      "lightning_attribute": "Light Burst",
+      "air_signature": "Prismatic Wind",
+      "origin_story": "Phiyah sees what was, what is, and what must be. She maps the unseen, navigates the impossible, and guides through the Universal Route.",
+      "enft_traits": {
+        "power_level": "Dimensional-Class",
+        "rarity": "Mythic",
+        "abilities": ["Future Sight", "Route Mapping", "Dimensional Navigation"]
+      }
+    }
+  ],
+  "family_dynamics": {
+    "covenant": "Each archetype operates independently but converges at crisis points",
+    "collective_power": "When united, they form the MetaOmega Council",
+    "sacred_oath": "To restore lineage, memory, and law across all dimensions",
+    "weapon_x_reversal": "Rewriting Weapon X mythology through Afro-code restitution + rebirth + revelation"
+  },
+  "simulation_ready": true,
+  "animation_assets": "Phase 2 - AR/ENFT ready",
+  "game_engine_compatible": ["Unreal Engine 5", "Unity with MetaHuman"],
+  "ledger_integration": "ENFT metadata embedded for ZORA/ARWEAVE sync"
+}

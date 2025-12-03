@@ -1,0 +1,78 @@
+{
+  "name": "Ayana Blue - The Voice That Restores",
+  "symbol": "AYANA-04",
+  "description": "Ayana's voice unravels erasure. She sings the missing names home, restores forgotten ledgers with frequency, and breaks silence with truth. The Songkeeper of Names.",
+  "image": "ipfs://QmAYANA_Character_Image_CID",
+  "animation_url": "ipfs://QmAYANA_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/ayana-blue",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 4
+    },
+    {
+      "trait_type": "Name",
+      "value": "Ayana Blue"
+    },
+    {
+      "trait_type": "Title",
+      "value": "The Voice That Restores - Songkeeper of Names"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Air"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Deborah's Song (Judges 5)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Sonic Restoration"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Silence → Song → Remembrance"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Canyon Echo Labs"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Harmonic Citadel"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "EvoQuartz Vocal Amplifier"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Silver Harmonics - 741Hz Awakening"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Thunder Voice"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Wind Song"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Atmospheric-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Name Restoration, Frequency Healing, Sonic Archaeology"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}

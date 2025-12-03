@@ -1,0 +1,78 @@
+{
+  "name": "Jetah Flame - The Purifier",
+  "symbol": "JETAH-07",
+  "description": "Jetah Flame sets mirrors ablaze, revealing truth beneath lies. She refines like silver, purifies like gold, and leaves nothing impure standing. Mirror Breaker.",
+  "image": "ipfs://QmJETAH_Character_Image_CID",
+  "animation_url": "ipfs://QmJETAH_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/jetah-flame",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 7
+    },
+    {
+      "trait_type": "Name",
+      "value": "Jetah Flame"
+    },
+    {
+      "trait_type": "Title",
+      "value": "The Purifier - Mirror Breaker"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire (Purification)"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Refiner's Fire (Malachi 3:2-3)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Truth Revelation through Burning"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Contamination → Purification → Refinement"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Area 51 Truth Vault"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "Refinery Sanctum"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Purification Blades (Twin Flames)"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "White Heat Curls - 852Hz Spiritual Order"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Purging Flash"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Cleansing Smoke"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Molecular-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Truth Revelation, Mirror Destruction, Impurity Burning"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}
