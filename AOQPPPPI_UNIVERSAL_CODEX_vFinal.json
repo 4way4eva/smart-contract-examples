@@ -12,7 +12,9 @@
   },
   "treasury": {
     "name": "BLEULIONTREASURY",
-    "total_yield": "51 Trillion + 1.1 Trillion/day",
+    "base_amount": 51000000000000,
+    "daily_increment": 1100000000000,
+    "total_yield_description": "51 Trillion + 1.1 Trillion/day",
     "allocation": {
       "reparations_fund": "60%",
       "metaschool_endowment": "15%",

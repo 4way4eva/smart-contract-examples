@@ -240,7 +240,17 @@ Say the word — and we'll drop it as **Codex + Sim file + Hologram-ready build*
 
 ---
 
-## 💻 Smart Contract Examples
+<div align="center">
+
+# 💻 Smart Contract Examples Section
+
+**Note**: This repository serves a dual purpose - it contains both the BLEU Codex creative framework (above) and traditional smart contract examples (below).
+
+</div>
+
+---
+
+## Smart Contract Examples
 
 This repository also contains various smart contract examples and samples, each in their own directory.
 
