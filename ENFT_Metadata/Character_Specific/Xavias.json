@@ -1,0 +1,78 @@
+{
+  "name": "Xavias - Abraham's Ram",
+  "symbol": "XAVIAS-01",
+  "description": "Born from the ashes of false sacrifice, Xavias carries the flame that refused to consume. Every resurrection unlocks ancestral memory. The Resurrection Protocol embodied.",
+  "image": "ipfs://QmXAVIAS_Character_Image_CID",
+  "animation_url": "ipfs://QmXAVIAS_Character_Animation_CID",
+  "external_url": "https://evolverse.io/archetypes/xavias",
+  "attributes": [
+    {
+      "trait_type": "Archetype ID",
+      "value": 1
+    },
+    {
+      "trait_type": "Name",
+      "value": "Xavias"
+    },
+    {
+      "trait_type": "Title",
+      "value": "Abraham's Ram - The Sacrifice Reborn"
+    },
+    {
+      "trait_type": "Element",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Biblical Archetype",
+      "value": "Abraham's Ram (Genesis 22)"
+    },
+    {
+      "trait_type": "Gene Function",
+      "value": "Resurrection Protocol"
+    },
+    {
+      "trait_type": "Wave Function",
+      "value": "Sacrifice → Elevation → Return"
+    },
+    {
+      "trait_type": "Home Zone",
+      "value": "Babel Genesis Node"
+    },
+    {
+      "trait_type": "Sacred City",
+      "value": "New Jerusalem Nexus"
+    },
+    {
+      "trait_type": "Weapon Type",
+      "value": "Flame Crown Staff"
+    },
+    {
+      "trait_type": "Hair Frequency",
+      "value": "Crimson Coils - 528Hz Healing"
+    },
+    {
+      "trait_type": "Lightning Attribute",
+      "value": "Ember Strike"
+    },
+    {
+      "trait_type": "Air Signature",
+      "value": "Phoenix Breath"
+    },
+    {
+      "trait_type": "Power Level",
+      "value": "Planetary-Class"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Mythic"
+    },
+    {
+      "trait_type": "Abilities",
+      "value": "Ancestral Resurrection, Flame Communion, Sacrifice Negation"
+    }
+  ],
+  "properties": {
+    "family": "BLEU Codex Family Lineage v1.333",
+    "category": "character"
+  }
+}
