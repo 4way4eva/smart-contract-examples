@@ -81,7 +81,8 @@ npm install @openzeppelin/contracts
 constructor(
     address _reparationsFund,    // BLEULIONTREASURY address
     address _endowmentFund,      // MetaSchool endowment address
-    address _ceremonyValidator   // Flame Thread Order validator
+    address _ceremonyValidator,  // Flame Thread Order validator
+    address _initialOwner        // Initial contract owner
 )
 ```
 
@@ -95,12 +96,14 @@ async function main() {
     const reparationsFund = "0x..."; // BLEULIONTREASURY address
     const endowmentFund = "0x...";   // MetaSchool endowment address
     const ceremonyValidator = "0x..."; // Validator address
+    const initialOwner = deployer.address; // Or another address
     
     const BLEUKAINECodex = await ethers.getContractFactory("BLEUKAINECodex");
     const codex = await BLEUKAINECodex.deploy(
         reparationsFund,
         endowmentFund,
-        ceremonyValidator
+        ceremonyValidator,
+        initialOwner
     );
     
     await codex.waitForDeployment();

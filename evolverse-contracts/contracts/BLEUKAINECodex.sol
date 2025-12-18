@@ -3,8 +3,10 @@ pragma solidity ^0.8.20;
 
 import "@openzeppelin/contracts/token/ERC721/ERC721.sol";
 import "@openzeppelin/contracts/token/ERC721/extensions/ERC721URIStorage.sol";
+import "@openzeppelin/contracts/token/ERC721/extensions/ERC721Enumerable.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
+import "@openzeppelin/contracts/utils/Strings.sol";
 import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 
 /**
@@ -22,7 +24,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
  * - MetaSchool access verification
  * - Ceremony validation for transfers
  */
-contract BLEUKAINECodex is ERC721, ERC721URIStorage, Ownable, ReentrancyGuard {
+contract BLEUKAINECodex is ERC721, ERC721URIStorage, ERC721Enumerable, Ownable, ReentrancyGuard {
     using Counters for Counters.Counter;
     
     // ============ State Variables ============
@@ -94,8 +96,9 @@ contract BLEUKAINECodex is ERC721, ERC721URIStorage, Ownable, ReentrancyGuard {
     constructor(
         address _reparationsFund,
         address _endowmentFund,
-        address _ceremonyValidator
-    ) ERC721("BLEUKAINE Sovereign Ledger", "BLEU-CX") Ownable(msg.sender) {
+        address _ceremonyValidator,
+        address _initialOwner
+    ) ERC721("BLEUKAINE Sovereign Ledger", "BLEU-CX") Ownable(_initialOwner) {
         require(_reparationsFund != address(0), "Invalid reparations fund address");
         require(_endowmentFund != address(0), "Invalid endowment fund address");
         require(_ceremonyValidator != address(0), "Invalid ceremony validator address");
@@ -250,7 +253,7 @@ contract BLEUKAINECodex is ERC721, ERC721URIStorage, Ownable, ReentrancyGuard {
     /**
      * @dev Override transfer to update voting power
      */
-    function _update(address to, uint256 tokenId, address auth) internal virtual override returns (address) {
+    function _update(address to, uint256 tokenId, address auth) internal virtual override(ERC721, ERC721Enumerable) returns (address) {
         address from = _ownerOf(tokenId);
         
         // Update voting power
@@ -387,17 +390,21 @@ contract BLEUKAINECodex is ERC721, ERC721URIStorage, Ownable, ReentrancyGuard {
     
     // ============ Required Overrides ============
     
-    function supportsInterface(bytes4 interfaceId) public view virtual override(ERC721, ERC721URIStorage) returns (bool) {
+    function supportsInterface(bytes4 interfaceId) 
+        public 
+        view 
+        virtual 
+        override(ERC721, ERC721URIStorage, ERC721Enumerable) 
+        returns (bool) 
+    {
         return super.supportsInterface(interfaceId);
     }
     
-    // Note: tokenOfOwnerByIndex would need ERC721Enumerable extension
-    // For simplicity, this example assumes it's available
-    function tokenOfOwnerByIndex(address owner, uint256 index) public view returns (uint256) {
-        // This would be implemented by ERC721Enumerable
-        // Placeholder for compilation
-        require(index < balanceOf(owner), "Owner index out of bounds");
-        // In production, this would iterate through tokens or use enumerable extension
-        return 0; // Placeholder
+    function _increaseBalance(address account, uint128 value) 
+        internal 
+        virtual 
+        override(ERC721, ERC721Enumerable) 
+    {
+        super._increaseBalance(account, value);
     }
 }
